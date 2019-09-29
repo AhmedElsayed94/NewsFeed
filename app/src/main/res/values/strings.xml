@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">News Feed</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Welcome</string>
+    <string name="nav_header_subtitle">Tony Roshdy</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_search">Search</string>
+    <string name="menu_explore">Explore</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_live_chat">Live Chat</string>
+    <string name="menu_wish_list">Wish List</string>
+    <string name="menu_e_magazine">E-Magazine</string>
+    <string name="menu_send">Send</string>
+    <string name="label_activity">LINK DEVELOPMENT</string>
+    <string name="by">By</string>
+    <string name="server_error">Server Error</string>
+    <string name="no_data_available">No data available.</string>
+    <string name="open_website">Open website</string>
+</resources>

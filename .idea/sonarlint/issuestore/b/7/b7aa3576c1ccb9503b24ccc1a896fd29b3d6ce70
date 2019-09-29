@@ -1,0 +1,16 @@
+
+‚squid:UselessImportCheck"WRemove this unused import 'com.mohnage7.newsfeed.view.callback.OnArticleClickListener'.(éê¥ý8…ÿÞÏ×-
+dsquid:UselessImportCheck "4Remove this unused import 'butterknife.ButterKnife'.(Ùî²™þÿÿÿÿ8ÀÌæÍ×-
+jsquid:UselessImportCheck":Remove this unused import 'android.widget.RelativeLayout'.(ü¯ðõþÿÿÿÿ8ƒ×ØÏ×-
+{squid:UselessImportCheck"KRemove this unused import 'com.mohnage7.newsfeed.repository.model.Article'.(âßá•øÿÿÿÿ8ÅÌÝÏ×-
+qsquid:MaximumInheritanceDepth""<This class has 7 parents which is greater than 5 authorized.(Ë¹›Œÿÿÿÿÿ8¤ÉåÍ×-
+}squid:UselessImportCheck"MRemove this unused import 'androidx.recyclerview.widget.LinearLayoutManager'.(ôœ¹ºýÿÿÿÿ8»ÜÏ×-
+vsquid:UselessImportCheck"FRemove this unused import 'androidx.recyclerview.widget.RecyclerView'.(Îèòçøÿÿÿÿ8»ÜÏ×-
+dsquid:UselessImportCheck"4Remove this unused import 'android.widget.TextView'.(„Ë‚ˆÿÿÿÿÿ8ƒ×ØÏ×-
+~squid:UselessImportCheck"NRemove this unused import 'com.mohnage7.newsfeed.viewmodel.ArticlesViewModel'.(Ù´ìûÿÿÿÿ8“õÙÏ×-
+rsquid:UselessImportCheck"BRemove this unused import 'androidx.lifecycle.ViewModelProviders'.(ê· ºÿÿÿÿÿ8“õÙÏ×-
+lsquid:UselessImportCheck"ARemove this unused import 'com.mohnage7.newsfeed.base.BaseError'.(òÓˆœ8»ÜÏ×-
+‚squid:UselessImportCheck"RRemove this unused import 'androidx.swiperefreshlayout.widget.SwipeRefreshLayout'.(”Ù®“úÿÿÿÿ8¶°ÞÏ×-
+zsquid:UselessImportCheck"ORemove this unused import 'com.mohnage7.newsfeed.view.adapter.ArticlesAdapter'.(Ú¿ø’8»ÜÏ×-
+^squid:UselessImportCheck".Remove this unused import 'android.view.View'.(Ø½­äþÿÿÿÿ8»ÜÏ×-
+[squid:UselessImportCheck"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8»ÜÏ×-
